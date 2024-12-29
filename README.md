@@ -2,7 +2,7 @@
 Python library for manipulating Super Mario Maker 2 save files.
 
 # Installation
-From the Command Prompt: ```pip install https://github.com/pormonto/SMM2/archive/main.zip```
+From the Command Prompt: ```pip install https://github.com/pormonto/SMM2_Library/archive/main.zip```
 
 # SMM2 Memory Modding Tools
 Most of the code in this script was created by [Treeki](https://github.com/Treeki/) for [CylindricalEarth](https://github.com/Treeki/CylindricalEarth), mainly [pynoexs.py](https://github.com/Treeki/CylindricalEarth/blob/master/pynoexs.py) and [debug_tools.py](https://github.com/Treeki/CylindricalEarth/blob/master/debug_tools.py).  This tool allows users to peek and poke specific pre-designated addresses in Super Mario Maker 2's memory, such as timer and sprite count.
@@ -25,7 +25,7 @@ Most of the code in this script was created by [Treeki](https://github.com/Treek
 Thanks to:
 * [MarioPossamato](https://github.com/MarioPossamato/SMM2/archive/main.zip) For creating the original project;
 * [Treeki](https://github.com/Treeki/) For creating [CylindricalEarth](https://github.com/Treeki/CylindricalEarth);
-* [Kinnay](https://github.com/Kinnay/) For helping me get encryption working;
+* [Kinnay](https://github.com/Kinnay/) For help on encryption;
 * [0Liam](https://github.com/0Liam/) For his documentation of save files;
 * [RedDuckss](https://github.com/RedDuckss/) For creating [partrick](https://github.com/RedDuckss/partrick);
 * [Tarnadas](https://github.com/Tarnadas/) For help with the save.dat file format;
