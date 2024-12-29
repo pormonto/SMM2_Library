@@ -10,9 +10,9 @@ setuptools.setup(
 	long_description = long_description,
 	author = "Mario Possamato",
 	author_email = "mariopossamato@gmail.com",
-	url = "https://github.com/MarioPossamato/SMM2",
+	url = "https://github.com/pormonto/SMM2_Library",
 	packages = [
 		"SMM2"
 	],
-	install_requires = ["nintendo", "pycryptodome", "capstone", "keystone-engine"]
+	install_requires = ["pycryptodome", "capstone", "keystone-engine"]
 )
