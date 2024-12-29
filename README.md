@@ -31,4 +31,7 @@ Thanks to:
 * [Tarnadas](https://github.com/Tarnadas/) For help with the save.dat file format;
 * [Simontime](https://github.com/simontime/) For creating [SMM2CourseDecryptor](https://github.com/simontime/SMM2CourseDecryptor).
 
-Also, I don't know who created [cstool.exe](https://github.com/MarioPossamato/SMM2/blob/main/SMM2/cstool.exe) and [kstool.exe](https://github.com/MarioPossamato/SMM2/blob/main/SMM2/kstool.exe) originally, but they come packaged with [Matthew Bell's](https://github.com/mdbell/) Noexes repository, so all credit goes to the original creator(s).  They're just here because I'm planning on doing something with them in the future.
+Also, I don't know who created [cstool.exe](https://github.com/MarioPossamato/SMM2/blob/main/SMM2/cstool.exe) and [kstool.exe](https://github.com/MarioPossamato/SMM2/blob/main/SMM2/kstool.exe) originally, but they come packaged with [Matthew Bell's](https://github.com/mdbell/) Noexes repository, so all credit goes to the original creator(s).  
+
+# Additional Information
+The ``encryption`` folder mainly exists as a temporary addition to the program to make it functional with its current structure. The original repository has not been updated in 3 years, so I'm scuffing something together to see if it works. Many structual changes can be made, but it is not my priority.

@@ -3,8 +3,8 @@ import zlib
 from Crypto.Hash import CMAC
 from Crypto.Cipher import AES
 from Crypto import Random
-from nintendo.sead import random
-from nintendo.enl import crypto
+from encryption.sead import random
+from encryption.enl import crypto
 from SMM2 import streams
 from SMM2 import keytables
 
