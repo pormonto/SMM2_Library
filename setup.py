@@ -12,7 +12,7 @@ setuptools.setup(
 	author_email = "mariopossamato@gmail.com",
 	url = "https://github.com/pormonto/SMM2_Library",
 	packages = [
-		"SMM2"
+		"SMM2", "SMM2.enl", "SMM2.sead"
 	],
 	install_requires = ["pycryptodome", "capstone", "keystone-engine"]
 )
